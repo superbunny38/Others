@@ -1,0 +1,2 @@
+﻿  cht1.cpp
+C:\Users\LG\Desktop\2020\C++ 스터디\chapter1\Project1\Project1\cht1.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
